@@ -1,4 +1,5 @@
 Productivity App
+
 Overview
 The Productivity App is a desktop application designed to help users enhance their productivity by blocking distracting websites, managing to-do lists, blocking certain applications, and providing an AI chatbot for assistance. This application is built using Python's Tkinter library for the GUI and integrates with various functionalities to promote focused work sessions.
 
