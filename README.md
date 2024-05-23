@@ -47,11 +47,9 @@ View the list of blocked websites and the remaining block time.
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for review.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact
-For any questions or suggestions, please contact [yourname@domain.com].
+For any questions or suggestions, please contact [rachitbhardwaj986@domain.com].
 
 Note for Reviewers
 This project showcases my ability to develop desktop applications using Python, Tkinter, and other related libraries. It demonstrates my skills in creating user-friendly interfaces, handling threading for background processes, and integrating various functionalities to enhance user productivity. This project is a testament to my dedication to building practical solutions to common problems.
